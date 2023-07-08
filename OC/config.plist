@@ -2221,7 +2221,7 @@
 				<key>Address</key>
 				<integer>268435456</integer>
 				<key>Comment</key>
-				<string>HD3000: IGPU memory corruption errata</string>
+				<string></string>
 				<key>Enabled</key>
 				<false/>
 				<key>Size</key>
@@ -2233,7 +2233,7 @@
 				<key>Address</key>
 				<integer>569344</integer>
 				<key>Comment</key>
-				<string>Fix black screen on wake from hibernation for Lenovo Thinkpad T490</string>
+				<string></string>
 				<key>Enabled</key>
 				<false/>
 				<key>Size</key>

@@ -1,5 +1,10 @@
 # FUJITSU-U937_opencore
 
+- FUJITSU-U937，号称最轻的14存笔记本，单机不超过800g。
+- i5-7300U，intel G620核显。intel AC 8265无线。 
+- 2133DDR4内存（我又加了一根16G 2644ddr4）。
+
+
 ## 驱动情况
 
 - Opencore 0.93，适配Ventura系统，向下兼容。Sonoma未验证。
@@ -10,6 +15,7 @@
 - SSDTTime制作SSDT补丁。
 - Hackintool 制作显卡补丁。
 - OCC选择相应的驱动。
+- 抄的其他oc的配置文件。
 
 
 ## 使用方法
